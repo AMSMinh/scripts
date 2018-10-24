@@ -1,0 +1,3854 @@
+{
+  "events": [
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 439,
+        "type": "RA",
+        "startTime": "2017-11-13T22:00:00.000Z",
+        "endTime": "2017-11-14T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-13T21:40:02.114Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 439,
+        "startTime": "2017-11-13T22:00:00.000Z",
+        "endTime": "2017-11-14T02:00:00.000Z",
+        "loadReduction": 1593.2599963188172,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7966299981594086,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-13T22:00:00.000Z",
+            "endTime": "2017-11-13T23:00:00.000Z",
+            "loadReduction": 1636.8360061645508,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8184180030822754
+          },
+          {
+            "startTime": "2017-11-13T23:00:00.000Z",
+            "endTime": "2017-11-14T00:00:00.000Z",
+            "loadReduction": 1615.0440416336057,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8075220208168029
+          },
+          {
+            "startTime": "2017-11-14T00:00:00.000Z",
+            "endTime": "2017-11-14T01:00:00.000Z",
+            "loadReduction": 1723.5279993057252,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8617639996528625
+          },
+          {
+            "startTime": "2017-11-14T01:00:00.000Z",
+            "endTime": "2017-11-14T02:00:00.000Z",
+            "loadReduction": 1593.2599963188172,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7966299981594086
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 444,
+        "type": "RA",
+        "startTime": "2017-11-14T22:00:00.000Z",
+        "endTime": "2017-11-15T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-14T21:40:03.118Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 444,
+        "startTime": "2017-11-14T22:00:00.000Z",
+        "endTime": "2017-11-15T02:00:00.000Z",
+        "loadReduction": 1508.6040172576902,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7543020086288451,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-14T22:00:00.000Z",
+            "endTime": "2017-11-14T23:00:00.000Z",
+            "loadReduction": 1596.9960269927979,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7984980134963989
+          },
+          {
+            "startTime": "2017-11-14T23:00:00.000Z",
+            "endTime": "2017-11-15T00:00:00.000Z",
+            "loadReduction": 1508.6040172576902,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7543020086288451
+          },
+          {
+            "startTime": "2017-11-15T00:00:00.000Z",
+            "endTime": "2017-11-15T01:00:00.000Z",
+            "loadReduction": 1691.608010673523,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8458040053367615
+          },
+          {
+            "startTime": "2017-11-15T01:00:00.000Z",
+            "endTime": "2017-11-15T02:00:00.000Z",
+            "loadReduction": 1608.2599929809571,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8041299964904786
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 446,
+        "type": "RA",
+        "startTime": "2017-11-15T21:00:00.000Z",
+        "endTime": "2017-11-16T01:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-15T20:40:05.123Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 446,
+        "startTime": "2017-11-15T21:00:00.000Z",
+        "endTime": "2017-11-16T01:00:00.000Z",
+        "loadReduction": 1565.9640083312986,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7829820041656493,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-15T21:00:00.000Z",
+            "endTime": "2017-11-15T22:00:00.000Z",
+            "loadReduction": 1670.7239936828614,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8353619968414308
+          },
+          {
+            "startTime": "2017-11-15T22:00:00.000Z",
+            "endTime": "2017-11-15T23:00:00.000Z",
+            "loadReduction": 1572.7559986114502,
+            "dispatchedCapacity": 2000,
+            "performance": 0.786377999305725
+          },
+          {
+            "startTime": "2017-11-15T23:00:00.000Z",
+            "endTime": "2017-11-16T00:00:00.000Z",
+            "loadReduction": 1565.9640083312986,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7829820041656493
+          },
+          {
+            "startTime": "2017-11-16T00:00:00.000Z",
+            "endTime": "2017-11-16T01:00:00.000Z",
+            "loadReduction": 1631.608028793335,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8158040143966675
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 454,
+        "type": "RA",
+        "startTime": "2017-11-16T22:00:00.000Z",
+        "endTime": "2017-11-17T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-16T21:40:01.341Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 454,
+        "startTime": "2017-11-16T22:00:00.000Z",
+        "endTime": "2017-11-17T02:00:00.000Z",
+        "loadReduction": 1663.5799998283387,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8317899999141694,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-16T22:00:00.000Z",
+            "endTime": "2017-11-16T23:00:00.000Z",
+            "loadReduction": 1839.0359954833984,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9195179977416992
+          },
+          {
+            "startTime": "2017-11-16T23:00:00.000Z",
+            "endTime": "2017-11-17T00:00:00.000Z",
+            "loadReduction": 1739.484014034271,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8697420070171356
+          },
+          {
+            "startTime": "2017-11-17T00:00:00.000Z",
+            "endTime": "2017-11-17T01:00:00.000Z",
+            "loadReduction": 1805.8480106830598,
+            "dispatchedCapacity": 2000,
+            "performance": 0.90292400534153
+          },
+          {
+            "startTime": "2017-11-17T01:00:00.000Z",
+            "endTime": "2017-11-17T02:00:00.000Z",
+            "loadReduction": 1663.5799998283387,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8317899999141694
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 460,
+        "type": "RA",
+        "startTime": "2017-11-17T23:00:00.000Z",
+        "endTime": "2017-11-18T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-17T22:40:02.119Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 460,
+        "startTime": "2017-11-17T23:00:00.000Z",
+        "endTime": "2017-11-18T02:00:00.000Z",
+        "loadReduction": 1651.7640037536619,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8258820018768309,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-17T23:00:00.000Z",
+            "endTime": "2017-11-18T00:00:00.000Z",
+            "loadReduction": 1651.7640037536619,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8258820018768309
+          },
+          {
+            "startTime": "2017-11-18T00:00:00.000Z",
+            "endTime": "2017-11-18T01:00:00.000Z",
+            "loadReduction": 1789.5280221939088,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8947640110969544
+          },
+          {
+            "startTime": "2017-11-18T01:00:00.000Z",
+            "endTime": "2017-11-18T02:00:00.000Z",
+            "loadReduction": 1765.3400012493134,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8826700006246567
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 466,
+        "type": "RA",
+        "startTime": "2017-11-20T22:00:00.000Z",
+        "endTime": "2017-11-21T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-20T21:40:04.117Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 466,
+        "startTime": "2017-11-20T22:00:00.000Z",
+        "endTime": "2017-11-21T02:00:00.000Z",
+        "loadReduction": 1643.7240085601804,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8218620042800903,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-20T22:00:00.000Z",
+            "endTime": "2017-11-20T23:00:00.000Z",
+            "loadReduction": 1719.6360273361206,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8598180136680603
+          },
+          {
+            "startTime": "2017-11-20T23:00:00.000Z",
+            "endTime": "2017-11-21T00:00:00.000Z",
+            "loadReduction": 1643.7240085601804,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8218620042800903
+          },
+          {
+            "startTime": "2017-11-21T00:00:00.000Z",
+            "endTime": "2017-11-21T01:00:00.000Z",
+            "loadReduction": 1743.448007965088,
+            "dispatchedCapacity": 2000,
+            "performance": 0.871724003982544
+          },
+          {
+            "startTime": "2017-11-21T01:00:00.000Z",
+            "endTime": "2017-11-21T02:00:00.000Z",
+            "loadReduction": 1674.4999941825868,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8372499970912933
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 470,
+        "type": "RA",
+        "startTime": "2017-11-21T22:00:00.000Z",
+        "endTime": "2017-11-22T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-21T21:44:14.000Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 470,
+        "startTime": "2017-11-21T22:00:00.000Z",
+        "endTime": "2017-11-22T02:00:00.000Z",
+        "loadReduction": 1581.5640172958372,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7907820086479186,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-21T22:00:00.000Z",
+            "endTime": "2017-11-21T23:00:00.000Z",
+            "loadReduction": 1635.756015777588,
+            "dispatchedCapacity": 2000,
+            "performance": 0.817878007888794
+          },
+          {
+            "startTime": "2017-11-21T23:00:00.000Z",
+            "endTime": "2017-11-22T00:00:00.000Z",
+            "loadReduction": 1581.5640172958372,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7907820086479186
+          },
+          {
+            "startTime": "2017-11-22T00:00:00.000Z",
+            "endTime": "2017-11-22T01:00:00.000Z",
+            "loadReduction": 1749.9280117988587,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8749640058994294
+          },
+          {
+            "startTime": "2017-11-22T01:00:00.000Z",
+            "endTime": "2017-11-22T02:00:00.000Z",
+            "loadReduction": 1741.100000345707,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8705500001728536
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 472,
+        "type": "RA",
+        "startTime": "2017-11-22T22:00:00.000Z",
+        "endTime": "2017-11-23T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-22T21:40:02.163Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 472,
+        "startTime": "2017-11-22T22:00:00.000Z",
+        "endTime": "2017-11-23T02:00:00.000Z",
+        "loadReduction": 1784.6760139465332,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8923380069732666,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-22T22:00:00.000Z",
+            "endTime": "2017-11-22T23:00:00.000Z",
+            "loadReduction": 1784.6760139465332,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8923380069732666
+          },
+          {
+            "startTime": "2017-11-22T23:00:00.000Z",
+            "endTime": "2017-11-23T00:00:00.000Z",
+            "loadReduction": 1825.164009094238,
+            "dispatchedCapacity": 2000,
+            "performance": 0.912582004547119
+          },
+          {
+            "startTime": "2017-11-23T00:00:00.000Z",
+            "endTime": "2017-11-23T01:00:00.000Z",
+            "loadReduction": 2109.6880206108094,
+            "dispatchedCapacity": 2000,
+            "performance": 1.0548440103054046
+          },
+          {
+            "startTime": "2017-11-23T01:00:00.000Z",
+            "endTime": "2017-11-23T02:00:00.000Z",
+            "loadReduction": 2082.3800036847592,
+            "dispatchedCapacity": 2000,
+            "performance": 1.0411900018423796
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 473,
+        "type": "RA",
+        "startTime": "2017-11-25T00:00:00.000Z",
+        "endTime": "2017-11-25T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-24T23:40:05.159Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 473,
+        "startTime": "2017-11-25T00:00:00.000Z",
+        "endTime": "2017-11-25T02:00:00.000Z",
+        "loadReduction": 2527.81999655962,
+        "dispatchedCapacity": 2000,
+        "performance": 1.26390999827981,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-25T00:00:00.000Z",
+            "endTime": "2017-11-25T01:00:00.000Z",
+            "loadReduction": 2710.288015151024,
+            "dispatchedCapacity": 2000,
+            "performance": 1.355144007575512
+          },
+          {
+            "startTime": "2017-11-25T01:00:00.000Z",
+            "endTime": "2017-11-25T02:00:00.000Z",
+            "loadReduction": 2527.81999655962,
+            "dispatchedCapacity": 2000,
+            "performance": 1.26390999827981
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 474,
+        "type": "RA",
+        "startTime": "2017-11-27T23:00:00.000Z",
+        "endTime": "2017-11-28T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-27T22:40:01.112Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 474,
+        "startTime": "2017-11-27T23:00:00.000Z",
+        "endTime": "2017-11-28T02:00:00.000Z",
+        "loadReduction": 1498.5240087509153,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7492620043754576,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-27T23:00:00.000Z",
+            "endTime": "2017-11-28T00:00:00.000Z",
+            "loadReduction": 1498.5240087509153,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7492620043754576
+          },
+          {
+            "startTime": "2017-11-28T00:00:00.000Z",
+            "endTime": "2017-11-28T01:00:00.000Z",
+            "loadReduction": 1613.608019733429,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8068040098667145
+          },
+          {
+            "startTime": "2017-11-28T01:00:00.000Z",
+            "endTime": "2017-11-28T02:00:00.000Z",
+            "loadReduction": 1530.7400058746339,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7653700029373169
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 475,
+        "type": "RA",
+        "startTime": "2017-11-28T23:00:00.000Z",
+        "endTime": "2017-11-29T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-28T22:40:05.122Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 475,
+        "startTime": "2017-11-28T23:00:00.000Z",
+        "endTime": "2017-11-29T02:00:00.000Z",
+        "loadReduction": 1500.8599866867066,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7504299933433534,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-28T23:00:00.000Z",
+            "endTime": "2017-11-29T00:00:00.000Z",
+            "loadReduction": 1737.2040171623228,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8686020085811614
+          },
+          {
+            "startTime": "2017-11-29T00:00:00.000Z",
+            "endTime": "2017-11-29T01:00:00.000Z",
+            "loadReduction": 1630.1680006027223,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8150840003013611
+          },
+          {
+            "startTime": "2017-11-29T01:00:00.000Z",
+            "endTime": "2017-11-29T02:00:00.000Z",
+            "loadReduction": 1500.8599866867066,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7504299933433534
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 476,
+        "type": "RA",
+        "startTime": "2017-11-29T22:00:00.000Z",
+        "endTime": "2017-11-30T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-29T21:40:02.122Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 476,
+        "startTime": "2017-11-29T22:00:00.000Z",
+        "endTime": "2017-11-30T02:00:00.000Z",
+        "loadReduction": 1482.7400044441224,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7413700022220612,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-29T22:00:00.000Z",
+            "endTime": "2017-11-29T23:00:00.000Z",
+            "loadReduction": 1712.0760326385498,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8560380163192749
+          },
+          {
+            "startTime": "2017-11-29T23:00:00.000Z",
+            "endTime": "2017-11-30T00:00:00.000Z",
+            "loadReduction": 1648.043985366821,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8240219926834105
+          },
+          {
+            "startTime": "2017-11-30T00:00:00.000Z",
+            "endTime": "2017-11-30T01:00:00.000Z",
+            "loadReduction": 1727.7280019760133,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8638640009880066
+          },
+          {
+            "startTime": "2017-11-30T01:00:00.000Z",
+            "endTime": "2017-11-30T02:00:00.000Z",
+            "loadReduction": 1482.7400044441224,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7413700022220612
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 477,
+        "type": "RA",
+        "startTime": "2017-11-30T22:00:00.000Z",
+        "endTime": "2017-12-01T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-11-30T21:40:02.116Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 477,
+        "startTime": "2017-11-30T22:00:00.000Z",
+        "endTime": "2017-12-01T02:00:00.000Z",
+        "loadReduction": 1490.180014038086,
+        "dispatchedCapacity": 2000,
+        "performance": 0.745090007019043,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-11-30T22:00:00.000Z",
+            "endTime": "2017-11-30T23:00:00.000Z",
+            "loadReduction": 1832.556007385254,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9162780036926269
+          },
+          {
+            "startTime": "2017-11-30T23:00:00.000Z",
+            "endTime": "2017-12-01T00:00:00.000Z",
+            "loadReduction": 1723.7640171051023,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8618820085525511
+          },
+          {
+            "startTime": "2017-12-01T00:00:00.000Z",
+            "endTime": "2017-12-01T01:00:00.000Z",
+            "loadReduction": 1741.0480231285096,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8705240115642549
+          },
+          {
+            "startTime": "2017-12-01T01:00:00.000Z",
+            "endTime": "2017-12-01T02:00:00.000Z",
+            "loadReduction": 1490.180014038086,
+            "dispatchedCapacity": 2000,
+            "performance": 0.745090007019043
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 479,
+        "type": "RA",
+        "startTime": "2017-12-01T22:00:00.000Z",
+        "endTime": "2017-12-02T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-01T21:40:03.036Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 479,
+        "startTime": "2017-12-01T22:00:00.000Z",
+        "endTime": "2017-12-02T02:00:00.000Z",
+        "loadReduction": 1619.8999848604203,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8099499924302102,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-01T22:00:00.000Z",
+            "endTime": "2017-12-01T23:00:00.000Z",
+            "loadReduction": 1758.1560201644897,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8790780100822448
+          },
+          {
+            "startTime": "2017-12-01T23:00:00.000Z",
+            "endTime": "2017-12-02T00:00:00.000Z",
+            "loadReduction": 1694.0039958953855,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8470019979476927
+          },
+          {
+            "startTime": "2017-12-02T00:00:00.000Z",
+            "endTime": "2017-12-02T01:00:00.000Z",
+            "loadReduction": 1835.3680252075196,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9176840126037598
+          },
+          {
+            "startTime": "2017-12-02T01:00:00.000Z",
+            "endTime": "2017-12-02T02:00:00.000Z",
+            "loadReduction": 1619.8999848604203,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8099499924302102
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 482,
+        "type": "RA",
+        "startTime": "2017-12-05T00:00:00.000Z",
+        "endTime": "2017-12-05T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-04T23:40:02.058Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 482,
+        "startTime": "2017-12-05T00:00:00.000Z",
+        "endTime": "2017-12-05T02:00:00.000Z",
+        "loadReduction": 1584.9800125598908,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7924900062799454,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-05T00:00:00.000Z",
+            "endTime": "2017-12-05T01:00:00.000Z",
+            "loadReduction": 1759.887991333008,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8799439956665039
+          },
+          {
+            "startTime": "2017-12-05T01:00:00.000Z",
+            "endTime": "2017-12-05T02:00:00.000Z",
+            "loadReduction": 1584.9800125598908,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7924900062799454
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 483,
+        "type": "RA",
+        "startTime": "2017-12-05T22:00:00.000Z",
+        "endTime": "2017-12-06T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-05T21:40:02.032Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 483,
+        "startTime": "2017-12-05T22:00:00.000Z",
+        "endTime": "2017-12-06T02:00:00.000Z",
+        "loadReduction": 1656.4999903678895,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8282499951839447,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-05T22:00:00.000Z",
+            "endTime": "2017-12-05T23:00:00.000Z",
+            "loadReduction": 1762.236014842987,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8811180074214935
+          },
+          {
+            "startTime": "2017-12-05T23:00:00.000Z",
+            "endTime": "2017-12-06T00:00:00.000Z",
+            "loadReduction": 1688.4840259552,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8442420129775999
+          },
+          {
+            "startTime": "2017-12-06T00:00:00.000Z",
+            "endTime": "2017-12-06T01:00:00.000Z",
+            "loadReduction": 1765.2880228996278,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8826440114498139
+          },
+          {
+            "startTime": "2017-12-06T01:00:00.000Z",
+            "endTime": "2017-12-06T02:00:00.000Z",
+            "loadReduction": 1656.4999903678895,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8282499951839447
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 484,
+        "type": "RA",
+        "startTime": "2017-12-06T22:00:00.000Z",
+        "endTime": "2017-12-07T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-06T21:50:06.000Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 484,
+        "startTime": "2017-12-06T22:00:00.000Z",
+        "endTime": "2017-12-07T02:00:00.000Z",
+        "loadReduction": 1617.5639996528623,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8087819998264312,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-06T22:00:00.000Z",
+            "endTime": "2017-12-06T23:00:00.000Z",
+            "loadReduction": 1710.3960247039795,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8551980123519898
+          },
+          {
+            "startTime": "2017-12-06T23:00:00.000Z",
+            "endTime": "2017-12-07T00:00:00.000Z",
+            "loadReduction": 1617.5639996528623,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8087819998264312
+          },
+          {
+            "startTime": "2017-12-07T00:00:00.000Z",
+            "endTime": "2017-12-07T01:00:00.000Z",
+            "loadReduction": 1730.0080074310304,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8650040037155152
+          },
+          {
+            "startTime": "2017-12-07T01:00:00.000Z",
+            "endTime": "2017-12-07T02:00:00.000Z",
+            "loadReduction": 1626.6199800014497,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8133099900007248
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 486,
+        "type": "RA",
+        "startTime": "2017-12-07T22:00:00.000Z",
+        "endTime": "2017-12-08T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-07T21:40:04.105Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 486,
+        "startTime": "2017-12-07T22:00:00.000Z",
+        "endTime": "2017-12-08T02:00:00.000Z",
+        "loadReduction": 1539.6840295791624,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7698420147895811,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-07T22:00:00.000Z",
+            "endTime": "2017-12-07T23:00:00.000Z",
+            "loadReduction": 1627.5960063934326,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8137980031967164
+          },
+          {
+            "startTime": "2017-12-07T23:00:00.000Z",
+            "endTime": "2017-12-08T00:00:00.000Z",
+            "loadReduction": 1539.6840295791624,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7698420147895811
+          },
+          {
+            "startTime": "2017-12-08T00:00:00.000Z",
+            "endTime": "2017-12-08T01:00:00.000Z",
+            "loadReduction": 1692.6880005836488,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8463440002918244
+          },
+          {
+            "startTime": "2017-12-08T01:00:00.000Z",
+            "endTime": "2017-12-08T02:00:00.000Z",
+            "loadReduction": 1701.0199894547463,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8505099947273732
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 490,
+        "type": "RA",
+        "startTime": "2017-12-08T22:00:00.000Z",
+        "endTime": "2017-12-09T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-08T21:40:04.517Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 490,
+        "startTime": "2017-12-08T22:00:00.000Z",
+        "endTime": "2017-12-09T02:00:00.000Z",
+        "loadReduction": 1693.2840261459348,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8466420130729674,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-08T22:00:00.000Z",
+            "endTime": "2017-12-08T23:00:00.000Z",
+            "loadReduction": 1760.4360358715057,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8802180179357528
+          },
+          {
+            "startTime": "2017-12-08T23:00:00.000Z",
+            "endTime": "2017-12-09T00:00:00.000Z",
+            "loadReduction": 1693.2840261459348,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8466420130729674
+          },
+          {
+            "startTime": "2017-12-09T00:00:00.000Z",
+            "endTime": "2017-12-09T01:00:00.000Z",
+            "loadReduction": 1841.7280076980592,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9208640038490296
+          },
+          {
+            "startTime": "2017-12-09T01:00:00.000Z",
+            "endTime": "2017-12-09T02:00:00.000Z",
+            "loadReduction": 1810.4599980652333,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9052299990326167
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 501,
+        "type": "RA",
+        "startTime": "2017-12-11T22:00:00.000Z",
+        "endTime": "2017-12-12T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-11T21:40:03.179Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 501,
+        "startTime": "2017-12-11T22:00:00.000Z",
+        "endTime": "2017-12-12T02:00:00.000Z",
+        "loadReduction": 1383.3800152778626,
+        "dispatchedCapacity": 2000,
+        "performance": 0.6916900076389313,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-11T22:00:00.000Z",
+            "endTime": "2017-12-11T23:00:00.000Z",
+            "loadReduction": 1430.5560216903687,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7152780108451843
+          },
+          {
+            "startTime": "2017-12-11T23:00:00.000Z",
+            "endTime": "2017-12-12T00:00:00.000Z",
+            "loadReduction": 1540.404005050659,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7702020025253294
+          },
+          {
+            "startTime": "2017-12-12T00:00:00.000Z",
+            "endTime": "2017-12-12T01:00:00.000Z",
+            "loadReduction": 1692.3280014038087,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8461640007019043
+          },
+          {
+            "startTime": "2017-12-12T01:00:00.000Z",
+            "endTime": "2017-12-12T02:00:00.000Z",
+            "loadReduction": 1383.3800152778626,
+            "dispatchedCapacity": 2000,
+            "performance": 0.6916900076389313
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 516,
+        "type": "RA",
+        "startTime": "2017-12-12T23:00:00.000Z",
+        "endTime": "2017-12-13T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-12T22:47:50.000Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 516,
+        "startTime": "2017-12-12T23:00:00.000Z",
+        "endTime": "2017-12-13T02:00:00.000Z",
+        "loadReduction": 1428.324023246765,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7141620116233824,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-12T23:00:00.000Z",
+            "endTime": "2017-12-13T00:00:00.000Z",
+            "loadReduction": 1428.324023246765,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7141620116233824
+          },
+          {
+            "startTime": "2017-12-13T00:00:00.000Z",
+            "endTime": "2017-12-13T01:00:00.000Z",
+            "loadReduction": 1624.1680053710938,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8120840026855469
+          },
+          {
+            "startTime": "2017-12-13T01:00:00.000Z",
+            "endTime": "2017-12-13T02:00:00.000Z",
+            "loadReduction": 1667.8999981075526,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8339499990537763
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 519,
+        "type": "RA",
+        "startTime": "2017-12-13T23:00:00.000Z",
+        "endTime": "2017-12-14T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-13T22:40:04.128Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 519,
+        "startTime": "2017-12-13T23:00:00.000Z",
+        "endTime": "2017-12-14T02:00:00.000Z",
+        "loadReduction": 1486.0440320968626,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7430220160484313,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-13T23:00:00.000Z",
+            "endTime": "2017-12-14T00:00:00.000Z",
+            "loadReduction": 1486.0440320968626,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7430220160484313
+          },
+          {
+            "startTime": "2017-12-14T00:00:00.000Z",
+            "endTime": "2017-12-14T01:00:00.000Z",
+            "loadReduction": 1665.4480060577393,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8327240030288696
+          },
+          {
+            "startTime": "2017-12-14T01:00:00.000Z",
+            "endTime": "2017-12-14T02:00:00.000Z",
+            "loadReduction": 1693.2200144767762,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8466100072383881
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 520,
+        "type": "RA",
+        "startTime": "2017-12-14T22:00:00.000Z",
+        "endTime": "2017-12-15T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-14T21:40:02.986Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 520,
+        "startTime": "2017-12-14T22:00:00.000Z",
+        "endTime": "2017-12-15T02:00:00.000Z",
+        "loadReduction": 1572.2040100097654,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7861020050048827,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-14T22:00:00.000Z",
+            "endTime": "2017-12-14T23:00:00.000Z",
+            "loadReduction": 1652.7960386276245,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8263980193138123
+          },
+          {
+            "startTime": "2017-12-14T23:00:00.000Z",
+            "endTime": "2017-12-15T00:00:00.000Z",
+            "loadReduction": 1572.2040100097654,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7861020050048827
+          },
+          {
+            "startTime": "2017-12-15T00:00:00.000Z",
+            "endTime": "2017-12-15T01:00:00.000Z",
+            "loadReduction": 1662.8080266952516,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8314040133476258
+          },
+          {
+            "startTime": "2017-12-15T01:00:00.000Z",
+            "endTime": "2017-12-15T02:00:00.000Z",
+            "loadReduction": 1682.4199961662293,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8412099980831147
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 522,
+        "type": "RA",
+        "startTime": "2017-12-15T23:00:00.000Z",
+        "endTime": "2017-12-16T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-15T22:40:00.979Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 522,
+        "startTime": "2017-12-15T23:00:00.000Z",
+        "endTime": "2017-12-16T02:00:00.000Z",
+        "loadReduction": 1706.6040201187132,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8533020100593566,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-15T23:00:00.000Z",
+            "endTime": "2017-12-16T00:00:00.000Z",
+            "loadReduction": 1706.6040201187132,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8533020100593566
+          },
+          {
+            "startTime": "2017-12-16T00:00:00.000Z",
+            "endTime": "2017-12-16T01:00:00.000Z",
+            "loadReduction": 1846.2880000710488,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9231440000355244
+          },
+          {
+            "startTime": "2017-12-16T01:00:00.000Z",
+            "endTime": "2017-12-16T02:00:00.000Z",
+            "loadReduction": 1833.9800031274558,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9169900015637279
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 528,
+        "type": "RA",
+        "startTime": "2017-12-18T22:00:00.000Z",
+        "endTime": "2017-12-19T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-18T21:40:02.964Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 528,
+        "startTime": "2017-12-18T22:00:00.000Z",
+        "endTime": "2017-12-19T02:00:00.000Z",
+        "loadReduction": 1472.7799986839295,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7363899993419648,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-18T22:00:00.000Z",
+            "endTime": "2017-12-18T23:00:00.000Z",
+            "loadReduction": 1654.476019859314,
+            "dispatchedCapacity": 2000,
+            "performance": 0.827238009929657
+          },
+          {
+            "startTime": "2017-12-18T23:00:00.000Z",
+            "endTime": "2017-12-19T00:00:00.000Z",
+            "loadReduction": 1574.604004859924,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7873020024299621
+          },
+          {
+            "startTime": "2017-12-19T00:00:00.000Z",
+            "endTime": "2017-12-19T01:00:00.000Z",
+            "loadReduction": 1651.1680196762086,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8255840098381043
+          },
+          {
+            "startTime": "2017-12-19T01:00:00.000Z",
+            "endTime": "2017-12-19T02:00:00.000Z",
+            "loadReduction": 1472.7799986839295,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7363899993419648
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1628,
+        "type": "RA",
+        "startTime": "2017-12-19T23:00:00.000Z",
+        "endTime": "2017-12-20T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-19T22:40:02.524Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1628,
+        "startTime": "2017-12-19T23:00:00.000Z",
+        "endTime": "2017-12-20T02:00:00.000Z",
+        "loadReduction": 1500.4999978780747,
+        "dispatchedCapacity": 2000,
+        "performance": 0.7502499989390373,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-19T23:00:00.000Z",
+            "endTime": "2017-12-20T00:00:00.000Z",
+            "loadReduction": 1605.5639991760252,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8027819995880126
+          },
+          {
+            "startTime": "2017-12-20T00:00:00.000Z",
+            "endTime": "2017-12-20T01:00:00.000Z",
+            "loadReduction": 1575.207993412018,
+            "dispatchedCapacity": 2000,
+            "performance": 0.787603996706009
+          },
+          {
+            "startTime": "2017-12-20T01:00:00.000Z",
+            "endTime": "2017-12-20T02:00:00.000Z",
+            "loadReduction": 1500.4999978780747,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7502499989390373
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1629,
+        "type": "RA",
+        "startTime": "2017-12-20T23:00:00.000Z",
+        "endTime": "2017-12-21T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-20T22:40:02.531Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1629,
+        "startTime": "2017-12-20T23:00:00.000Z",
+        "endTime": "2017-12-21T02:00:00.000Z",
+        "loadReduction": 1387.7000123500825,
+        "dispatchedCapacity": 2000,
+        "performance": 0.6938500061750412,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-20T23:00:00.000Z",
+            "endTime": "2017-12-21T00:00:00.000Z",
+            "loadReduction": 1593.9240033626554,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7969620016813277
+          },
+          {
+            "startTime": "2017-12-21T00:00:00.000Z",
+            "endTime": "2017-12-21T01:00:00.000Z",
+            "loadReduction": 1552.7680065870286,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7763840032935143
+          },
+          {
+            "startTime": "2017-12-21T01:00:00.000Z",
+            "endTime": "2017-12-21T02:00:00.000Z",
+            "loadReduction": 1387.7000123500825,
+            "dispatchedCapacity": 2000,
+            "performance": 0.6938500061750412
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1630,
+        "type": "RA",
+        "startTime": "2017-12-21T16:00:00.000Z",
+        "endTime": "2017-12-21T20:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-21T15:40:01.528Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1630,
+        "startTime": "2017-12-21T16:00:00.000Z",
+        "endTime": "2017-12-21T20:00:00.000Z",
+        "loadReduction": 1186.0559936136008,
+        "dispatchedCapacity": 2000,
+        "performance": 0.5930279968068004,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-21T16:00:00.000Z",
+            "endTime": "2017-12-21T17:00:00.000Z",
+            "loadReduction": 1186.0559936136008,
+            "dispatchedCapacity": 2000,
+            "performance": 0.5930279968068004
+          },
+          {
+            "startTime": "2017-12-21T17:00:00.000Z",
+            "endTime": "2017-12-21T18:00:00.000Z",
+            "loadReduction": 1481.1360291779042,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7405680145889522
+          },
+          {
+            "startTime": "2017-12-21T18:00:00.000Z",
+            "endTime": "2017-12-21T19:00:00.000Z",
+            "loadReduction": 1576.8239965558055,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7884119982779028
+          },
+          {
+            "startTime": "2017-12-21T19:00:00.000Z",
+            "endTime": "2017-12-21T20:00:00.000Z",
+            "loadReduction": 1648.4759912490845,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8242379956245423
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1631,
+        "type": "RA",
+        "startTime": "2017-12-22T16:00:00.000Z",
+        "endTime": "2017-12-22T20:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-22T15:40:02.580Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1631,
+        "startTime": "2017-12-22T16:00:00.000Z",
+        "endTime": "2017-12-22T20:00:00.000Z",
+        "loadReduction": 1180.0559966385365,
+        "dispatchedCapacity": 2000,
+        "performance": 0.5900279983192682,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-22T16:00:00.000Z",
+            "endTime": "2017-12-22T17:00:00.000Z",
+            "loadReduction": 1180.0559966385365,
+            "dispatchedCapacity": 2000,
+            "performance": 0.5900279983192682
+          },
+          {
+            "startTime": "2017-12-22T17:00:00.000Z",
+            "endTime": "2017-12-22T18:00:00.000Z",
+            "loadReduction": 1536.8160423725844,
+            "dispatchedCapacity": 2000,
+            "performance": 0.7684080211862923
+          },
+          {
+            "startTime": "2017-12-22T18:00:00.000Z",
+            "endTime": "2017-12-22T19:00:00.000Z",
+            "loadReduction": 1750.1040320813659,
+            "dispatchedCapacity": 2000,
+            "performance": 0.875052016040683
+          },
+          {
+            "startTime": "2017-12-22T19:00:00.000Z",
+            "endTime": "2017-12-22T20:00:00.000Z",
+            "loadReduction": 1864.3559874296188,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9321779937148095
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1634,
+        "type": "RA",
+        "startTime": "2017-12-26T22:00:00.000Z",
+        "endTime": "2017-12-27T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-26T21:40:03.523Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1634,
+        "startTime": "2017-12-26T22:00:00.000Z",
+        "endTime": "2017-12-27T02:00:00.000Z",
+        "loadReduction": 1718.3000022411347,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8591500011205674,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-26T22:00:00.000Z",
+            "endTime": "2017-12-26T23:00:00.000Z",
+            "loadReduction": 2175.5160188674927,
+            "dispatchedCapacity": 2000,
+            "performance": 1.0877580094337462
+          },
+          {
+            "startTime": "2017-12-26T23:00:00.000Z",
+            "endTime": "2017-12-27T00:00:00.000Z",
+            "loadReduction": 1986.9240031242368,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9934620015621184
+          },
+          {
+            "startTime": "2017-12-27T00:00:00.000Z",
+            "endTime": "2017-12-27T01:00:00.000Z",
+            "loadReduction": 1972.5280241012574,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9862640120506287
+          },
+          {
+            "startTime": "2017-12-27T01:00:00.000Z",
+            "endTime": "2017-12-27T02:00:00.000Z",
+            "loadReduction": 1718.3000022411347,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8591500011205674
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1640,
+        "type": "RA",
+        "startTime": "2017-12-27T22:00:00.000Z",
+        "endTime": "2017-12-28T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-27T22:36:30.000Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1640,
+        "startTime": "2017-12-27T22:00:00.000Z",
+        "endTime": "2017-12-28T02:00:00.000Z",
+        "loadReduction": 1646.179983997345,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8230899919986725,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-27T22:00:00.000Z",
+            "endTime": "2017-12-27T23:00:00.000Z",
+            "loadReduction": 1789.7160139083862,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8948580069541932
+          },
+          {
+            "startTime": "2017-12-27T23:00:00.000Z",
+            "endTime": "2017-12-28T00:00:00.000Z",
+            "loadReduction": 1659.0840167999265,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8295420083999633
+          },
+          {
+            "startTime": "2017-12-28T00:00:00.000Z",
+            "endTime": "2017-12-28T01:00:00.000Z",
+            "loadReduction": 1741.0480197906495,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8705240098953247
+          },
+          {
+            "startTime": "2017-12-28T01:00:00.000Z",
+            "endTime": "2017-12-28T02:00:00.000Z",
+            "loadReduction": 1646.179983997345,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8230899919986725
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1650,
+        "type": "RA",
+        "startTime": "2017-12-28T22:00:00.000Z",
+        "endTime": "2017-12-29T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2017-12-28T21:40:02.528Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1650,
+        "startTime": "2017-12-28T22:00:00.000Z",
+        "endTime": "2017-12-29T02:00:00.000Z",
+        "loadReduction": 1823.299980545044,
+        "dispatchedCapacity": 2000,
+        "performance": 0.911649990272522,
+        "hourlyPerformance": [
+          {
+            "startTime": "2017-12-28T22:00:00.000Z",
+            "endTime": "2017-12-28T23:00:00.000Z",
+            "loadReduction": 1964.3160104751587,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9821580052375793
+          },
+          {
+            "startTime": "2017-12-28T23:00:00.000Z",
+            "endTime": "2017-12-29T00:00:00.000Z",
+            "loadReduction": 1869.6840095520017,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9348420047760009
+          },
+          {
+            "startTime": "2017-12-29T00:00:00.000Z",
+            "endTime": "2017-12-29T01:00:00.000Z",
+            "loadReduction": 1953.3280118942262,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9766640059471131
+          },
+          {
+            "startTime": "2017-12-29T01:00:00.000Z",
+            "endTime": "2017-12-29T02:00:00.000Z",
+            "loadReduction": 1823.299980545044,
+            "dispatchedCapacity": 2000,
+            "performance": 0.911649990272522
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 1743,
+        "type": "RA",
+        "startTime": "2018-01-29T22:00:00.000Z",
+        "endTime": "2018-01-30T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-01-29T21:40:02.527Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 1743,
+        "startTime": "2018-01-29T22:00:00.000Z",
+        "endTime": "2018-01-30T02:00:00.000Z",
+        "loadReduction": 1517.196004867554,
+        "dispatchedCapacity": 2000,
+        "performance": 0.758598002433777,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-01-29T22:00:00.000Z",
+            "endTime": "2018-01-29T23:00:00.000Z",
+            "loadReduction": 1517.196004867554,
+            "dispatchedCapacity": 2000,
+            "performance": 0.758598002433777
+          },
+          {
+            "startTime": "2018-01-29T23:00:00.000Z",
+            "endTime": "2018-01-30T00:00:00.000Z",
+            "loadReduction": 1606.7160175323486,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8033580087661742
+          },
+          {
+            "startTime": "2018-01-30T00:00:00.000Z",
+            "endTime": "2018-01-30T01:00:00.000Z",
+            "loadReduction": 1839.4920120239258,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9197460060119629
+          },
+          {
+            "startTime": "2018-01-30T01:00:00.000Z",
+            "endTime": "2018-01-30T02:00:00.000Z",
+            "loadReduction": 2088.084004163742,
+            "dispatchedCapacity": 2000,
+            "performance": 1.044042002081871
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3044,
+        "type": "RA",
+        "startTime": "2018-02-12T18:00:00.000Z",
+        "endTime": "2018-02-12T21:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-12T17:40:01.686Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3044,
+        "startTime": "2018-02-12T18:00:00.000Z",
+        "endTime": "2018-02-12T21:00:00.000Z",
+        "loadReduction": 1947.1560023695229,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.7788624452564282,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-12T18:00:00.000Z",
+            "endTime": "2018-02-12T19:00:00.000Z",
+            "loadReduction": 2279.8439868450164,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.911937646617126
+          },
+          {
+            "startTime": "2018-02-12T19:00:00.000Z",
+            "endTime": "2018-02-12T20:00:00.000Z",
+            "loadReduction": 1987.4400021165607,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7949760460719282
+          },
+          {
+            "startTime": "2018-02-12T20:00:00.000Z",
+            "endTime": "2018-02-12T21:00:00.000Z",
+            "loadReduction": 1947.1560023695229,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7788624452564282
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3045,
+        "type": "RA",
+        "startTime": "2018-02-12T18:00:00.000Z",
+        "endTime": "2018-02-12T21:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-02-12T17:40:02.226Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3045,
+        "startTime": "2018-02-12T18:00:00.000Z",
+        "endTime": "2018-02-12T21:00:00.000Z",
+        "loadReduction": 1798.1039538383486,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8990519769191743,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-12T18:00:00.000Z",
+            "endTime": "2018-02-12T19:00:00.000Z",
+            "loadReduction": 1798.1039538383486,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8990519769191743
+          },
+          {
+            "startTime": "2018-02-12T19:00:00.000Z",
+            "endTime": "2018-02-12T20:00:00.000Z",
+            "loadReduction": 1804.439988708496,
+            "dispatchedCapacity": 2000,
+            "performance": 0.902219994354248
+          },
+          {
+            "startTime": "2018-02-12T20:00:00.000Z",
+            "endTime": "2018-02-12T21:00:00.000Z",
+            "loadReduction": 1851.3120267868044,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9256560133934022
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3073,
+        "type": "RA",
+        "startTime": "2018-02-14T01:00:00.000Z",
+        "endTime": "2018-02-14T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-14T00:40:02.623Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3073,
+        "startTime": "2018-02-14T01:00:00.000Z",
+        "endTime": "2018-02-14T02:00:00.000Z",
+        "loadReduction": 2002.1639950484036,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.800865643579718,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-14T01:00:00.000Z",
+            "endTime": "2018-02-14T02:00:00.000Z",
+            "loadReduction": 2002.1639950484036,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.800865643579718
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3079,
+        "type": "RA",
+        "startTime": "2018-02-15T01:00:00.000Z",
+        "endTime": "2018-02-15T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-15T00:40:01.692Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3079,
+        "startTime": "2018-02-15T01:00:00.000Z",
+        "endTime": "2018-02-15T02:00:00.000Z",
+        "loadReduction": 2095.763985773921,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.8383056419998449,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-15T01:00:00.000Z",
+            "endTime": "2018-02-15T02:00:00.000Z",
+            "loadReduction": 2095.763985773921,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.8383056419998449
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3083,
+        "type": "RA",
+        "startTime": "2018-02-16T01:00:00.000Z",
+        "endTime": "2018-02-16T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-16T00:40:01.632Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3083,
+        "startTime": "2018-02-16T01:00:00.000Z",
+        "endTime": "2018-02-16T02:00:00.000Z",
+        "loadReduction": 2038.523993974924,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.8154096439777182,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-16T01:00:00.000Z",
+            "endTime": "2018-02-16T02:00:00.000Z",
+            "loadReduction": 2038.523993974924,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.8154096439777182
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3084,
+        "type": "RA",
+        "startTime": "2018-02-16T01:00:00.000Z",
+        "endTime": "2018-02-16T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-02-16T00:40:01.941Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3084,
+        "startTime": "2018-02-16T01:00:00.000Z",
+        "endTime": "2018-02-16T02:00:00.000Z",
+        "loadReduction": 1965.2759933948516,
+        "dispatchedCapacity": 2000,
+        "performance": 0.9826379966974258,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-16T01:00:00.000Z",
+            "endTime": "2018-02-16T02:00:00.000Z",
+            "loadReduction": 1965.2759933948516,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9826379966974258
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3087,
+        "type": "RA",
+        "startTime": "2018-02-20T01:00:00.000Z",
+        "endTime": "2018-02-20T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-20T00:40:01.742Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3087,
+        "startTime": "2018-02-20T01:00:00.000Z",
+        "endTime": "2018-02-20T02:00:00.000Z",
+        "loadReduction": 2579.2799963816997,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.0317120572456324,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-20T01:00:00.000Z",
+            "endTime": "2018-02-20T02:00:00.000Z",
+            "loadReduction": 2579.2799963816997,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0317120572456324
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3114,
+        "type": "RA",
+        "startTime": "2018-02-21T01:00:00.000Z",
+        "endTime": "2018-02-21T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-21T00:40:01.661Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3114,
+        "startTime": "2018-02-21T01:00:00.000Z",
+        "endTime": "2018-02-21T02:00:00.000Z",
+        "loadReduction": 1695.1199860811234,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.6780480330058486,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-21T01:00:00.000Z",
+            "endTime": "2018-02-21T02:00:00.000Z",
+            "loadReduction": 1695.1199860811234,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.6780480330058486
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3116,
+        "type": "RA",
+        "startTime": "2018-02-21T22:00:00.000Z",
+        "endTime": "2018-02-22T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-21T21:40:02.728Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3116,
+        "startTime": "2018-02-21T22:00:00.000Z",
+        "endTime": "2018-02-22T02:00:00.000Z",
+        "loadReduction": 1739.039985471964,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.6956160337616089,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-21T22:00:00.000Z",
+            "endTime": "2018-02-21T23:00:00.000Z",
+            "loadReduction": 2086.8719752699135,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.8347488375958992
+          },
+          {
+            "startTime": "2018-02-21T23:00:00.000Z",
+            "endTime": "2018-02-22T00:00:00.000Z",
+            "loadReduction": 2083.2119863301514,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.8332848419367093
+          },
+          {
+            "startTime": "2018-02-22T00:00:00.000Z",
+            "endTime": "2018-02-22T01:00:00.000Z",
+            "loadReduction": 1979.363983494043,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7917456384391468
+          },
+          {
+            "startTime": "2018-02-22T01:00:00.000Z",
+            "endTime": "2018-02-22T02:00:00.000Z",
+            "loadReduction": 1739.039985471964,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.6956160337616089
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3117,
+        "type": "RA",
+        "startTime": "2018-02-21T22:00:00.000Z",
+        "endTime": "2018-02-22T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-02-21T21:40:03.361Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3117,
+        "startTime": "2018-02-21T22:00:00.000Z",
+        "endTime": "2018-02-22T02:00:00.000Z",
+        "loadReduction": 1723.019994297624,
+        "dispatchedCapacity": 2000,
+        "performance": 0.8615099971488119,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-21T22:00:00.000Z",
+            "endTime": "2018-02-21T23:00:00.000Z",
+            "loadReduction": 2189.3159915447236,
+            "dispatchedCapacity": 2000,
+            "performance": 1.094657995772362
+          },
+          {
+            "startTime": "2018-02-21T23:00:00.000Z",
+            "endTime": "2018-02-22T00:00:00.000Z",
+            "loadReduction": 2072.759979057312,
+            "dispatchedCapacity": 2000,
+            "performance": 1.036379989528656
+          },
+          {
+            "startTime": "2018-02-22T00:00:00.000Z",
+            "endTime": "2018-02-22T01:00:00.000Z",
+            "loadReduction": 1911.875968194008,
+            "dispatchedCapacity": 2000,
+            "performance": 0.955937984097004
+          },
+          {
+            "startTime": "2018-02-22T01:00:00.000Z",
+            "endTime": "2018-02-22T02:00:00.000Z",
+            "loadReduction": 1723.019994297624,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8615099971488119
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3128,
+        "type": "RA",
+        "startTime": "2018-02-22T16:00:00.000Z",
+        "endTime": "2018-02-22T20:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-22T15:40:04.741Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3128,
+        "startTime": "2018-02-22T16:00:00.000Z",
+        "endTime": "2018-02-22T20:00:00.000Z",
+        "loadReduction": 1250.519994223118,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.500208026145526,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-22T16:00:00.000Z",
+            "endTime": "2018-02-22T17:00:00.000Z",
+            "loadReduction": 1250.519994223118,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.500208026145526
+          },
+          {
+            "startTime": "2018-02-22T17:00:00.000Z",
+            "endTime": "2018-02-22T18:00:00.000Z",
+            "loadReduction": 1825.9559954434635,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7303824397280309
+          },
+          {
+            "startTime": "2018-02-22T18:00:00.000Z",
+            "endTime": "2018-02-22T19:00:00.000Z",
+            "loadReduction": 1606.080000936985,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.6424320369220388
+          },
+          {
+            "startTime": "2018-02-22T19:00:00.000Z",
+            "endTime": "2018-02-22T20:00:00.000Z",
+            "loadReduction": 1289.8800054967405,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.515952031550634
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3129,
+        "type": "RA",
+        "startTime": "2018-02-22T16:00:00.000Z",
+        "endTime": "2018-02-22T20:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-02-22T15:40:05.073Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3129,
+        "startTime": "2018-02-22T16:00:00.000Z",
+        "endTime": "2018-02-22T20:00:00.000Z",
+        "loadReduction": 1322.459986048937,
+        "dispatchedCapacity": 2000,
+        "performance": 0.6612299930244685,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-22T16:00:00.000Z",
+            "endTime": "2018-02-22T17:00:00.000Z",
+            "loadReduction": 1322.459986048937,
+            "dispatchedCapacity": 2000,
+            "performance": 0.6612299930244685
+          },
+          {
+            "startTime": "2018-02-22T17:00:00.000Z",
+            "endTime": "2018-02-22T18:00:00.000Z",
+            "loadReduction": 1447.3439662277701,
+            "dispatchedCapacity": 2000,
+            "performance": 0.723671983113885
+          },
+          {
+            "startTime": "2018-02-22T18:00:00.000Z",
+            "endTime": "2018-02-22T19:00:00.000Z",
+            "loadReduction": 1676.2080282688141,
+            "dispatchedCapacity": 2000,
+            "performance": 0.838104014134407
+          },
+          {
+            "startTime": "2018-02-22T19:00:00.000Z",
+            "endTime": "2018-02-22T20:00:00.000Z",
+            "loadReduction": 1774.1760015010836,
+            "dispatchedCapacity": 2000,
+            "performance": 0.8870880007505418
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3146,
+        "type": "RA",
+        "startTime": "2018-02-24T01:00:00.000Z",
+        "endTime": "2018-02-24T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-24T00:40:02.674Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3146,
+        "startTime": "2018-02-24T01:00:00.000Z",
+        "endTime": "2018-02-24T02:00:00.000Z",
+        "loadReduction": 1786.919982740283,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.7147680337584725,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-24T01:00:00.000Z",
+            "endTime": "2018-02-24T02:00:00.000Z",
+            "loadReduction": 1786.919982740283,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7147680337584725
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3152,
+        "type": "RA",
+        "startTime": "2018-02-28T01:00:00.000Z",
+        "endTime": "2018-02-28T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-02-28T00:40:06.769Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3152,
+        "startTime": "2018-02-28T01:00:00.000Z",
+        "endTime": "2018-02-28T02:00:00.000Z",
+        "loadReduction": 1897.0679856836796,
+        "dispatchedCapacity": 2000,
+        "performance": 0.9485339928418398,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-28T01:00:00.000Z",
+            "endTime": "2018-02-28T02:00:00.000Z",
+            "loadReduction": 1897.0679856836796,
+            "dispatchedCapacity": 2000,
+            "performance": 0.9485339928418398
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3151,
+        "type": "RA",
+        "startTime": "2018-02-28T01:00:00.000Z",
+        "endTime": "2018-02-28T02:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-02-28T00:40:05.704Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3151,
+        "startTime": "2018-02-28T01:00:00.000Z",
+        "endTime": "2018-02-28T02:00:00.000Z",
+        "loadReduction": 1769.1359970778226,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.7076544390888038,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-02-28T01:00:00.000Z",
+            "endTime": "2018-02-28T02:00:00.000Z",
+            "loadReduction": 1769.1359970778226,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.7076544390888038
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3308,
+        "type": "RA",
+        "startTime": "2018-05-15T22:00:00.000Z",
+        "endTime": "2018-05-16T02:00:00.000Z",
+        "capacity": 2000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-05-15T21:39:14.743Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3308,
+        "startTime": "2018-05-15T22:00:00.000Z",
+        "endTime": "2018-05-16T02:00:00.000Z",
+        "loadReduction": 15.276017761230491,
+        "dispatchedCapacity": 2000,
+        "performance": 0.007638008880615246,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-05-15T22:00:00.000Z",
+            "endTime": "2018-05-15T23:00:00.000Z",
+            "loadReduction": 111.79203643798826,
+            "dispatchedCapacity": 2000,
+            "performance": 0.05589601821899413
+          },
+          {
+            "startTime": "2018-05-15T23:00:00.000Z",
+            "endTime": "2018-05-16T00:00:00.000Z",
+            "loadReduction": 15.276017761230491,
+            "dispatchedCapacity": 2000,
+            "performance": 0.007638008880615246
+          },
+          {
+            "startTime": "2018-05-16T00:00:00.000Z",
+            "endTime": "2018-05-16T01:00:00.000Z",
+            "loadReduction": 61.44000287055974,
+            "dispatchedCapacity": 2000,
+            "performance": 0.030720001435279868
+          },
+          {
+            "startTime": "2018-05-16T01:00:00.000Z",
+            "endTime": "2018-05-16T02:00:00.000Z",
+            "loadReduction": 161.8439961314201,
+            "dispatchedCapacity": 2000,
+            "performance": 0.08092199806571006
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3309,
+        "type": "RA",
+        "startTime": "2018-05-16T21:00:00.000Z",
+        "endTime": "2018-05-17T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-05-16T20:40:04.745Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3309,
+        "startTime": "2018-05-16T21:00:00.000Z",
+        "endTime": "2018-05-17T01:00:00.000Z",
+        "loadReduction": 4155.7079800367355,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.8311416432900717,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-05-16T21:00:00.000Z",
+            "endTime": "2018-05-16T22:00:00.000Z",
+            "loadReduction": 4399.2120049953455,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8798424510523285
+          },
+          {
+            "startTime": "2018-05-16T22:00:00.000Z",
+            "endTime": "2018-05-16T23:00:00.000Z",
+            "loadReduction": 4206.4919951915745,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8412984468988487
+          },
+          {
+            "startTime": "2018-05-16T23:00:00.000Z",
+            "endTime": "2018-05-17T00:00:00.000Z",
+            "loadReduction": 4163.196006917953,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8326392487515123
+          },
+          {
+            "startTime": "2018-05-17T00:00:00.000Z",
+            "endTime": "2018-05-17T01:00:00.000Z",
+            "loadReduction": 4155.7079800367355,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8311416432900717
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3424,
+        "type": "RA",
+        "startTime": "2018-07-06T21:00:00.000Z",
+        "endTime": "2018-07-07T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-06T20:40:02.950Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3424,
+        "startTime": "2018-07-06T21:00:00.000Z",
+        "endTime": "2018-07-07T01:00:00.000Z",
+        "loadReduction": 3484.2660030350094,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.6968532402502084,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-06T21:00:00.000Z",
+            "endTime": "2018-07-06T22:00:00.000Z",
+            "loadReduction": 3644.454030221701,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7288908475101307
+          },
+          {
+            "startTime": "2018-07-06T22:00:00.000Z",
+            "endTime": "2018-07-06T23:00:00.000Z",
+            "loadReduction": 3567.4640232101083,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7134928452318369
+          },
+          {
+            "startTime": "2018-07-06T23:00:00.000Z",
+            "endTime": "2018-07-07T00:00:00.000Z",
+            "loadReduction": 3595.7819885253903,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7191564386170888
+          },
+          {
+            "startTime": "2018-07-07T00:00:00.000Z",
+            "endTime": "2018-07-07T01:00:00.000Z",
+            "loadReduction": 3484.2660030350094,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.6968532402502084
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3423,
+        "type": "RA",
+        "startTime": "2018-07-06T21:00:00.000Z",
+        "endTime": "2018-07-07T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-06T20:40:02.649Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3423,
+        "startTime": "2018-07-06T21:00:00.000Z",
+        "endTime": "2018-07-07T01:00:00.000Z",
+        "loadReduction": 2831.7559831604362,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.1327024577023588,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-06T21:00:00.000Z",
+            "endTime": "2018-07-06T22:00:00.000Z",
+            "loadReduction": 3037.7144832387567,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.2150858624203873
+          },
+          {
+            "startTime": "2018-07-06T22:00:00.000Z",
+            "endTime": "2018-07-06T23:00:00.000Z",
+            "loadReduction": 3144.7759967729453,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.257910470270307
+          },
+          {
+            "startTime": "2018-07-06T23:00:00.000Z",
+            "endTime": "2018-07-07T00:00:00.000Z",
+            "loadReduction": 2855.413980101049,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1421656570169547
+          },
+          {
+            "startTime": "2018-07-07T00:00:00.000Z",
+            "endTime": "2018-07-07T01:00:00.000Z",
+            "loadReduction": 2831.7559831604362,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1327024577023588
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3433,
+        "type": "RA",
+        "startTime": "2018-07-10T00:00:00.000Z",
+        "endTime": "2018-07-10T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-09T23:40:04.656Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3433,
+        "startTime": "2018-07-10T00:00:00.000Z",
+        "endTime": "2018-07-10T01:00:00.000Z",
+        "loadReduction": 3051.755964255333,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.2207024551465395,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-10T00:00:00.000Z",
+            "endTime": "2018-07-10T01:00:00.000Z",
+            "loadReduction": 3051.755964255333,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.2207024551465395
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3434,
+        "type": "RA",
+        "startTime": "2018-07-10T22:00:00.000Z",
+        "endTime": "2018-07-11T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-10T21:40:03.659Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3434,
+        "startTime": "2018-07-10T22:00:00.000Z",
+        "endTime": "2018-07-11T01:00:00.000Z",
+        "loadReduction": 2851.0560226425528,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.1404224739343884,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-10T22:00:00.000Z",
+            "endTime": "2018-07-10T23:00:00.000Z",
+            "loadReduction": 2893.0759195223454,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1572304336424917
+          },
+          {
+            "startTime": "2018-07-10T23:00:00.000Z",
+            "endTime": "2018-07-11T00:00:00.000Z",
+            "loadReduction": 2854.013897132874,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.141605623797825
+          },
+          {
+            "startTime": "2018-07-11T00:00:00.000Z",
+            "endTime": "2018-07-11T01:00:00.000Z",
+            "loadReduction": 2851.0560226425528,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1404224739343884
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3446,
+        "type": "RA",
+        "startTime": "2018-07-17T21:00:00.000Z",
+        "endTime": "2018-07-18T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-17T20:40:02.660Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3446,
+        "startTime": "2018-07-17T21:00:00.000Z",
+        "endTime": "2018-07-18T01:00:00.000Z",
+        "loadReduction": 2522.851996137202,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.0091408558637829,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-17T21:00:00.000Z",
+            "endTime": "2018-07-17T22:00:00.000Z",
+            "loadReduction": 2556.420000819862,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0225680585007053
+          },
+          {
+            "startTime": "2018-07-17T22:00:00.000Z",
+            "endTime": "2018-07-17T23:00:00.000Z",
+            "loadReduction": 2531.409978958965,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0125640491872296
+          },
+          {
+            "startTime": "2018-07-17T23:00:00.000Z",
+            "endTime": "2018-07-18T00:00:00.000Z",
+            "loadReduction": 2522.851996137202,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0091408558637829
+          },
+          {
+            "startTime": "2018-07-18T00:00:00.000Z",
+            "endTime": "2018-07-18T01:00:00.000Z",
+            "loadReduction": 2594.208003409207,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0376832603963304
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3447,
+        "type": "RA",
+        "startTime": "2018-07-18T00:00:00.000Z",
+        "endTime": "2018-07-18T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-17T23:40:03.754Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3447,
+        "startTime": "2018-07-18T00:00:00.000Z",
+        "endTime": "2018-07-18T01:00:00.000Z",
+        "loadReduction": 4684.266016194224,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9368532565353856,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-18T00:00:00.000Z",
+            "endTime": "2018-07-18T01:00:00.000Z",
+            "loadReduction": 4684.266016194224,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9368532565353856
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3450,
+        "type": "RA",
+        "startTime": "2018-07-18T21:00:00.000Z",
+        "endTime": "2018-07-19T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-18T20:40:02.753Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3450,
+        "startTime": "2018-07-18T21:00:00.000Z",
+        "endTime": "2018-07-19T01:00:00.000Z",
+        "loadReduction": 4565.768002694845,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9131536524872655,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-18T21:00:00.000Z",
+            "endTime": "2018-07-18T22:00:00.000Z",
+            "loadReduction": 4565.768002694845,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9131536524872655
+          },
+          {
+            "startTime": "2018-07-18T22:00:00.000Z",
+            "endTime": "2018-07-18T23:00:00.000Z",
+            "loadReduction": 4715.433990289272,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9430868517090174
+          },
+          {
+            "startTime": "2018-07-18T23:00:00.000Z",
+            "endTime": "2018-07-19T00:00:00.000Z",
+            "loadReduction": 4822.538013269007,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9645076575235704
+          },
+          {
+            "startTime": "2018-07-19T00:00:00.000Z",
+            "endTime": "2018-07-19T01:00:00.000Z",
+            "loadReduction": 4968.265994356572,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9936532553991441
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3451,
+        "type": "RA",
+        "startTime": "2018-07-18T23:00:00.000Z",
+        "endTime": "2018-07-19T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-18T22:40:04.670Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3451,
+        "startTime": "2018-07-18T23:00:00.000Z",
+        "endTime": "2018-07-19T01:00:00.000Z",
+        "loadReduction": 2421.0819865971807,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.9684328497319411,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-18T23:00:00.000Z",
+            "endTime": "2018-07-19T00:00:00.000Z",
+            "loadReduction": 2421.0819865971807,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.9684328497319411
+          },
+          {
+            "startTime": "2018-07-19T00:00:00.000Z",
+            "endTime": "2018-07-19T01:00:00.000Z",
+            "loadReduction": 2767.7080010399227,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1070832633967058
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3455,
+        "type": "RA",
+        "startTime": "2018-07-19T21:00:00.000Z",
+        "endTime": "2018-07-20T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-19T20:40:02.963Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3455,
+        "startTime": "2018-07-19T21:00:00.000Z",
+        "endTime": "2018-07-20T01:00:00.000Z",
+        "loadReduction": 4510.9239990219485,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9021848511286834,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-19T21:00:00.000Z",
+            "endTime": "2018-07-19T22:00:00.000Z",
+            "loadReduction": 4521.358003804087,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.904271652203827
+          },
+          {
+            "startTime": "2018-07-19T22:00:00.000Z",
+            "endTime": "2018-07-19T23:00:00.000Z",
+            "loadReduction": 4510.9239990219485,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9021848511286834
+          },
+          {
+            "startTime": "2018-07-19T23:00:00.000Z",
+            "endTime": "2018-07-20T00:00:00.000Z",
+            "loadReduction": 4664.838003543019,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.932967653784097
+          },
+          {
+            "startTime": "2018-07-20T00:00:00.000Z",
+            "endTime": "2018-07-20T01:00:00.000Z",
+            "loadReduction": 4780.565985010564,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9561132513943333
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3454,
+        "type": "RA",
+        "startTime": "2018-07-19T21:00:00.000Z",
+        "endTime": "2018-07-20T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-19T20:40:02.643Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3454,
+        "startTime": "2018-07-19T21:00:00.000Z",
+        "endTime": "2018-07-20T01:00:00.000Z",
+        "loadReduction": 2737.90799677372,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.095163261012109,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-19T21:00:00.000Z",
+            "endTime": "2018-07-19T22:00:00.000Z",
+            "loadReduction": 2799.419997854531,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1197680628441733
+          },
+          {
+            "startTime": "2018-07-19T22:00:00.000Z",
+            "endTime": "2018-07-19T23:00:00.000Z",
+            "loadReduction": 2759.409980009497,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1037640547957095
+          },
+          {
+            "startTime": "2018-07-19T23:00:00.000Z",
+            "endTime": "2018-07-20T00:00:00.000Z",
+            "loadReduction": 2738.151976487041,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0952608529029892
+          },
+          {
+            "startTime": "2018-07-20T00:00:00.000Z",
+            "endTime": "2018-07-20T01:00:00.000Z",
+            "loadReduction": 2737.90799677372,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.095163261012109
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3461,
+        "type": "RA",
+        "startTime": "2018-07-20T21:00:00.000Z",
+        "endTime": "2018-07-21T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-20T20:40:03.010Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3461,
+        "startTime": "2018-07-20T21:00:00.000Z",
+        "endTime": "2018-07-21T01:00:00.000Z",
+        "loadReduction": 5344.83398923725,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 1.0689668586597867,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-20T21:00:00.000Z",
+            "endTime": "2018-07-20T22:00:00.000Z",
+            "loadReduction": 5445.168011365829,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.089033664227081
+          },
+          {
+            "startTime": "2018-07-20T22:00:00.000Z",
+            "endTime": "2018-07-20T23:00:00.000Z",
+            "loadReduction": 5344.83398923725,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.0689668586597867
+          },
+          {
+            "startTime": "2018-07-20T23:00:00.000Z",
+            "endTime": "2018-07-21T00:00:00.000Z",
+            "loadReduction": 5464.238001395762,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.0928476624500416
+          },
+          {
+            "startTime": "2018-07-21T00:00:00.000Z",
+            "endTime": "2018-07-21T01:00:00.000Z",
+            "loadReduction": 5545.365978644788,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.1090732588229029
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3460,
+        "type": "RA",
+        "startTime": "2018-07-20T21:00:00.000Z",
+        "endTime": "2018-07-21T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-20T20:40:02.653Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3460,
+        "startTime": "2018-07-20T21:00:00.000Z",
+        "endTime": "2018-07-21T01:00:00.000Z",
+        "loadReduction": 2824.70800703764,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.1298832670928596,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-20T21:00:00.000Z",
+            "endTime": "2018-07-20T22:00:00.000Z",
+            "loadReduction": 2879.819997055829,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1519280643542391
+          },
+          {
+            "startTime": "2018-07-20T22:00:00.000Z",
+            "endTime": "2018-07-20T23:00:00.000Z",
+            "loadReduction": 2863.109994861484,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.145244063096256
+          },
+          {
+            "startTime": "2018-07-20T23:00:00.000Z",
+            "endTime": "2018-07-21T00:00:00.000Z",
+            "loadReduction": 2834.351994132996,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1337408621504563
+          },
+          {
+            "startTime": "2018-07-21T00:00:00.000Z",
+            "endTime": "2018-07-21T01:00:00.000Z",
+            "loadReduction": 2824.70800703764,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.1298832670928596
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3464,
+        "type": "RA",
+        "startTime": "2018-07-23T21:00:00.000Z",
+        "endTime": "2018-07-24T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-23T20:40:02.254Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3464,
+        "startTime": "2018-07-23T21:00:00.000Z",
+        "endTime": "2018-07-24T01:00:00.000Z",
+        "loadReduction": 3826.737998199463,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.7653476431796696,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-23T21:00:00.000Z",
+            "endTime": "2018-07-23T22:00:00.000Z",
+            "loadReduction": 3833.618020997941,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7667236478176446
+          },
+          {
+            "startTime": "2018-07-23T22:00:00.000Z",
+            "endTime": "2018-07-23T23:00:00.000Z",
+            "loadReduction": 3835.733996582032,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7671468429585379
+          },
+          {
+            "startTime": "2018-07-23T23:00:00.000Z",
+            "endTime": "2018-07-24T00:00:00.000Z",
+            "loadReduction": 3826.737998199463,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7653476431796696
+          },
+          {
+            "startTime": "2018-07-24T00:00:00.000Z",
+            "endTime": "2018-07-24T01:00:00.000Z",
+            "loadReduction": 3893.1659778594967,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7786332398674792
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3463,
+        "type": "RA",
+        "startTime": "2018-07-23T21:00:00.000Z",
+        "endTime": "2018-07-24T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-23T20:40:01.665Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3463,
+        "startTime": "2018-07-23T21:00:00.000Z",
+        "endTime": "2018-07-24T01:00:00.000Z",
+        "loadReduction": 2448.5079944580793,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.9794032535003946,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-23T21:00:00.000Z",
+            "endTime": "2018-07-23T22:00:00.000Z",
+            "loadReduction": 2532.319994343817,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0129280553618785
+          },
+          {
+            "startTime": "2018-07-23T22:00:00.000Z",
+            "endTime": "2018-07-23T23:00:00.000Z",
+            "loadReduction": 2495.70998954326,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.9982840526085744
+          },
+          {
+            "startTime": "2018-07-23T23:00:00.000Z",
+            "endTime": "2018-07-24T00:00:00.000Z",
+            "loadReduction": 2473.8520017623905,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.9895408569988361
+          },
+          {
+            "startTime": "2018-07-24T00:00:00.000Z",
+            "endTime": "2018-07-24T01:00:00.000Z",
+            "loadReduction": 2448.5079944580793,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.9794032535003946
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3468,
+        "type": "RA",
+        "startTime": "2018-07-24T21:00:00.000Z",
+        "endTime": "2018-07-25T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-24T20:40:04.087Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3468,
+        "startTime": "2018-07-24T21:00:00.000Z",
+        "endTime": "2018-07-25T01:00:00.000Z",
+        "loadReduction": 3712.0780185684557,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.7424156459488923,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-24T21:00:00.000Z",
+            "endTime": "2018-07-24T22:00:00.000Z",
+            "loadReduction": 3804.8180126175284,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.760963645813882
+          },
+          {
+            "startTime": "2018-07-24T22:00:00.000Z",
+            "endTime": "2018-07-24T23:00:00.000Z",
+            "loadReduction": 3765.934017181397,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7531868462842422
+          },
+          {
+            "startTime": "2018-07-24T23:00:00.000Z",
+            "endTime": "2018-07-25T00:00:00.000Z",
+            "loadReduction": 3712.0780185684557,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7424156459488923
+          },
+          {
+            "startTime": "2018-07-25T00:00:00.000Z",
+            "endTime": "2018-07-25T01:00:00.000Z",
+            "loadReduction": 3888.6159606948495,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.7777232363827806
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3469,
+        "type": "RA",
+        "startTime": "2018-07-24T21:00:00.000Z",
+        "endTime": "2018-07-25T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-24T20:40:04.671Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3469,
+        "startTime": "2018-07-24T21:00:00.000Z",
+        "endTime": "2018-07-25T01:00:00.000Z",
+        "loadReduction": 5125.459968177974,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 2.0501841039038853,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-24T21:00:00.000Z",
+            "endTime": "2018-07-24T22:00:00.000Z",
+            "loadReduction": 5125.459968177974,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.0501841039038853
+          },
+          {
+            "startTime": "2018-07-24T22:00:00.000Z",
+            "endTime": "2018-07-24T23:00:00.000Z",
+            "loadReduction": 5323.489995382727,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.12939611929207
+          },
+          {
+            "startTime": "2018-07-24T23:00:00.000Z",
+            "endTime": "2018-07-25T00:00:00.000Z",
+            "loadReduction": 5208.591960905493,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.0834369028866075
+          },
+          {
+            "startTime": "2018-07-25T00:00:00.000Z",
+            "endTime": "2018-07-25T01:00:00.000Z",
+            "loadReduction": 5155.827989961207,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.0623313133082197
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3473,
+        "type": "RA",
+        "startTime": "2018-07-25T21:00:00.000Z",
+        "endTime": "2018-07-26T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-25T20:40:04.735Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3473,
+        "startTime": "2018-07-25T21:00:00.000Z",
+        "endTime": "2018-07-26T01:00:00.000Z",
+        "loadReduction": 4103.6340435042985,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.8207268553910986,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-25T21:00:00.000Z",
+            "endTime": "2018-07-25T22:00:00.000Z",
+            "loadReduction": 4104.168029008806,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8208336524980756
+          },
+          {
+            "startTime": "2018-07-25T22:00:00.000Z",
+            "endTime": "2018-07-25T23:00:00.000Z",
+            "loadReduction": 4103.6340435042985,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8207268553910986
+          },
+          {
+            "startTime": "2018-07-25T23:00:00.000Z",
+            "endTime": "2018-07-26T00:00:00.000Z",
+            "loadReduction": 4105.2380245298145,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8210476516144515
+          },
+          {
+            "startTime": "2018-07-26T00:00:00.000Z",
+            "endTime": "2018-07-26T01:00:00.000Z",
+            "loadReduction": 4219.565977858007,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.843913243580888
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3472,
+        "type": "RA",
+        "startTime": "2018-07-25T21:00:00.000Z",
+        "endTime": "2018-07-26T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-25T20:40:01.823Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3472,
+        "startTime": "2018-07-25T21:00:00.000Z",
+        "endTime": "2018-07-26T01:00:00.000Z",
+        "loadReduction": 4982.959967403113,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.993184100351274,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-25T21:00:00.000Z",
+            "endTime": "2018-07-25T22:00:00.000Z",
+            "loadReduction": 4982.959967403113,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.993184100351274
+          },
+          {
+            "startTime": "2018-07-25T22:00:00.000Z",
+            "endTime": "2018-07-25T23:00:00.000Z",
+            "loadReduction": 5172.289994239808,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.0689161153942623
+          },
+          {
+            "startTime": "2018-07-25T23:00:00.000Z",
+            "endTime": "2018-07-26T00:00:00.000Z",
+            "loadReduction": 5105.191974064708,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.0420769057973693
+          },
+          {
+            "startTime": "2018-07-26T00:00:00.000Z",
+            "endTime": "2018-07-26T01:00:00.000Z",
+            "loadReduction": 5119.32798499912,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 2.047731310492807
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3475,
+        "type": "RA",
+        "startTime": "2018-07-26T21:00:00.000Z",
+        "endTime": "2018-07-27T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-26T20:40:03.050Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3475,
+        "startTime": "2018-07-26T21:00:00.000Z",
+        "endTime": "2018-07-27T01:00:00.000Z",
+        "loadReduction": 2550.05198468864,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.020020851903309,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-26T21:00:00.000Z",
+            "endTime": "2018-07-26T22:00:00.000Z",
+            "loadReduction": 2562.6199990198015,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0250480579217656
+          },
+          {
+            "startTime": "2018-07-26T22:00:00.000Z",
+            "endTime": "2018-07-26T23:00:00.000Z",
+            "loadReduction": 2573.709994125367,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0294840562163508
+          },
+          {
+            "startTime": "2018-07-26T23:00:00.000Z",
+            "endTime": "2018-07-27T00:00:00.000Z",
+            "loadReduction": 2550.05198468864,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.020020851903309
+          },
+          {
+            "startTime": "2018-07-27T00:00:00.000Z",
+            "endTime": "2018-07-27T01:00:00.000Z",
+            "loadReduction": 2562.5080048963428,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0250032602698336
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3474,
+        "type": "RA",
+        "startTime": "2018-07-26T21:00:00.000Z",
+        "endTime": "2018-07-27T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-26T20:40:02.737Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3474,
+        "startTime": "2018-07-26T21:00:00.000Z",
+        "endTime": "2018-07-27T01:00:00.000Z",
+        "loadReduction": 4426.768009370566,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.8853536522408987,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-26T21:00:00.000Z",
+            "endTime": "2018-07-26T22:00:00.000Z",
+            "loadReduction": 4426.768009370566,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8853536522408987
+          },
+          {
+            "startTime": "2018-07-26T22:00:00.000Z",
+            "endTime": "2018-07-26T23:00:00.000Z",
+            "loadReduction": 4453.634031486512,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8907268569697636
+          },
+          {
+            "startTime": "2018-07-26T23:00:00.000Z",
+            "endTime": "2018-07-27T00:00:00.000Z",
+            "loadReduction": 4499.538009260595,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8999076530468654
+          },
+          {
+            "startTime": "2018-07-27T00:00:00.000Z",
+            "endTime": "2018-07-27T01:00:00.000Z",
+            "loadReduction": 4784.965945960581,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9569932436343984
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3478,
+        "type": "RA",
+        "startTime": "2018-07-27T21:00:00.000Z",
+        "endTime": "2018-07-28T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-27T20:40:01.799Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3478,
+        "startTime": "2018-07-27T21:00:00.000Z",
+        "endTime": "2018-07-28T01:00:00.000Z",
+        "loadReduction": 2595.951994417608,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 1.0383808568393764,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-27T21:00:00.000Z",
+            "endTime": "2018-07-27T22:00:00.000Z",
+            "loadReduction": 2634.519990427792,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.053808056121086
+          },
+          {
+            "startTime": "2018-07-27T22:00:00.000Z",
+            "endTime": "2018-07-27T23:00:00.000Z",
+            "loadReduction": 2624.2099863991148,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0496840542750054
+          },
+          {
+            "startTime": "2018-07-27T23:00:00.000Z",
+            "endTime": "2018-07-28T00:00:00.000Z",
+            "loadReduction": 2595.951994417608,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0383808568393764
+          },
+          {
+            "startTime": "2018-07-28T00:00:00.000Z",
+            "endTime": "2018-07-28T01:00:00.000Z",
+            "loadReduction": 2651.308007657528,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 1.0605232633950012
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3482,
+        "type": "RA",
+        "startTime": "2018-07-27T22:00:00.000Z",
+        "endTime": "2018-07-28T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-07-27T21:40:01.733Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3482,
+        "startTime": "2018-07-27T22:00:00.000Z",
+        "endTime": "2018-07-28T01:00:00.000Z",
+        "loadReduction": 4648.034016978741,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9296068562800495,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-27T22:00:00.000Z",
+            "endTime": "2018-07-27T23:00:00.000Z",
+            "loadReduction": 4648.034016978741,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9296068562800495
+          },
+          {
+            "startTime": "2018-07-27T23:00:00.000Z",
+            "endTime": "2018-07-28T00:00:00.000Z",
+            "loadReduction": 4778.837950897217,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9557676445520026
+          },
+          {
+            "startTime": "2018-07-28T00:00:00.000Z",
+            "endTime": "2018-07-28T01:00:00.000Z",
+            "loadReduction": 4928.066004657745,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9856132570019921
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3508,
+        "type": "RA",
+        "startTime": "2018-07-31T00:00:00.000Z",
+        "endTime": "2018-07-31T01:00:00.000Z",
+        "capacity": 2500,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-07-30T23:40:02.807Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3508,
+        "startTime": "2018-07-31T00:00:00.000Z",
+        "endTime": "2018-07-31T01:00:00.000Z",
+        "loadReduction": 2458.0079956948757,
+        "dispatchedCapacity": 2499.999857777778,
+        "performance": 0.983203254211291,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-07-31T00:00:00.000Z",
+            "endTime": "2018-07-31T01:00:00.000Z",
+            "loadReduction": 2458.0079956948757,
+            "dispatchedCapacity": 2499.999857777778,
+            "performance": 0.983203254211291
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3542,
+        "type": "RA",
+        "startTime": "2018-08-02T00:00:00.000Z",
+        "endTime": "2018-08-02T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-08-01T23:40:02.744Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3542,
+        "startTime": "2018-08-02T00:00:00.000Z",
+        "endTime": "2018-08-02T01:00:00.000Z",
+        "loadReduction": 4771.457991723717,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9542916526333352,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-08-02T00:00:00.000Z",
+            "endTime": "2018-08-02T01:00:00.000Z",
+            "loadReduction": 4771.457991723717,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9542916526333352
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3545,
+        "type": "RA",
+        "startTime": "2018-08-03T21:00:00.000Z",
+        "endTime": "2018-08-04T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-08-03T20:40:02.736Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3545,
+        "startTime": "2018-08-03T21:00:00.000Z",
+        "endTime": "2018-08-04T01:00:00.000Z",
+        "loadReduction": 4515.981973832845,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.9031964461484113,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-08-03T21:00:00.000Z",
+            "endTime": "2018-08-03T22:00:00.000Z",
+            "loadReduction": 4515.981973832845,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9031964461484113
+          },
+          {
+            "startTime": "2018-08-03T22:00:00.000Z",
+            "endTime": "2018-08-03T23:00:00.000Z",
+            "loadReduction": 4658.383998011053,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9316768526042716
+          },
+          {
+            "startTime": "2018-08-03T23:00:00.000Z",
+            "endTime": "2018-08-04T00:00:00.000Z",
+            "loadReduction": 4744.843976116181,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9489688492090196
+          },
+          {
+            "startTime": "2018-08-04T00:00:00.000Z",
+            "endTime": "2018-08-04T01:00:00.000Z",
+            "loadReduction": 4733.189985986054,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.9466380510503977
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3546,
+        "type": "RA",
+        "startTime": "2018-08-03T23:00:00.000Z",
+        "endTime": "2018-08-04T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-08-03T22:40:02.678Z",
+        "actual": true,
+        "canceled": true,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3546,
+        "startTime": "2018-08-03T23:00:00.000Z",
+        "endTime": "2018-08-04T01:00:00.000Z",
+        "loadReduction": 5127.469972695411,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 1.0254940528782994,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-08-03T23:00:00.000Z",
+            "endTime": "2018-08-04T00:00:00.000Z",
+            "loadReduction": 5127.469972695411,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.0254940528782994
+          },
+          {
+            "startTime": "2018-08-04T00:00:00.000Z",
+            "endTime": "2018-08-04T01:00:00.000Z",
+            "loadReduction": 5150.973301569621,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 1.0301947189205571
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3548,
+        "type": "RA",
+        "startTime": "2018-08-06T21:00:00.000Z",
+        "endTime": "2018-08-07T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 2,
+        "receivedAt": "2018-08-06T20:40:05.026Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "2",
+      "contractName": "DRESA PPA2",
+      "performance": {
+        "dispatchEventId": 3548,
+        "startTime": "2018-08-06T21:00:00.000Z",
+        "endTime": "2018-08-06T22:47:00.000Z",
+        "loadReduction": 4203.481995752454,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.8406964469767776,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-08-06T21:00:00.000Z",
+            "endTime": "2018-08-06T22:00:00.000Z",
+            "loadReduction": 4203.481995752454,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8406964469767776
+          },
+          {
+            "startTime": "2018-08-06T22:00:00.000Z",
+            "endTime": "2018-08-06T22:47:00.000Z",
+            "loadReduction": 4461.850683085124,
+            "dispatchedCapacity": 3916.6665955555554,
+            "performance": 1.1391959397688374
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    },
+    {
+      "dispatchEvent": {
+        "dispatchEventId": 3547,
+        "type": "RA",
+        "startTime": "2018-08-06T21:00:00.000Z",
+        "endTime": "2018-08-07T01:00:00.000Z",
+        "capacity": 5000,
+        "powerPurchaseAgreementId": 1,
+        "receivedAt": "2018-08-06T20:40:04.706Z",
+        "actual": true,
+        "canceled": false,
+        "fullDispatch": true
+      },
+      "utilityContractId": "1",
+      "contractName": "DRESA PPA1",
+      "performance": {
+        "dispatchEventId": 3547,
+        "startTime": "2018-08-06T21:00:00.000Z",
+        "endTime": "2018-08-06T22:47:00.000Z",
+        "loadReduction": 4385.144012446703,
+        "dispatchedCapacity": 4999.999715555556,
+        "performance": 0.8770288523825375,
+        "hourlyPerformance": [
+          {
+            "startTime": "2018-08-06T21:00:00.000Z",
+            "endTime": "2018-08-06T22:00:00.000Z",
+            "loadReduction": 4385.144012446703,
+            "dispatchedCapacity": 4999.999715555556,
+            "performance": 0.8770288523825375
+          },
+          {
+            "startTime": "2018-08-06T22:00:00.000Z",
+            "endTime": "2018-08-06T22:47:00.000Z",
+            "loadReduction": 4378.177330782016,
+            "dispatchedCapacity": 3916.6665955555554,
+            "performance": 1.117832530282297
+          }
+        ],
+        "calculationMethod": "SCETenInTen"
+      }
+    }
+  ],
+  "averagePerformance": 0.8702959705921597
+}
